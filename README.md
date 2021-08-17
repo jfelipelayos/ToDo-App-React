@@ -1,6 +1,6 @@
-# Demo
+# [Live Demo](https://todo-list-jfelipelayos.netlify.app/)
 
-[Live Preview](https://todo-list-jfelipelayos.netlify.app/)
+
 
 # Getting Started with Create React App
 
